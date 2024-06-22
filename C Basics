@@ -1,0 +1,46 @@
+C Basics:
+
+C Compiler
+C compiler is a software that translates human-readable C language code into machine code or an intermediate code that can be executed by a computer’s central processing unit (CPU).
+
+There are many C compilers available in the market, such as GNU Compiler Collection (GCC), Microsoft Visual C++ Compiler, Clang, Intel C++ Compiler, and TinyCC (TCC).
+
+For this tutorial, we will be using the GNU-based online C compiler provided by GeeksforGeeks which is developed for beginners and is very easy to use compared to other compiler/IDE’s available on the web.
+
+Print Hello World using C Programming
+
+#include <stdio.h>
+ 
+int main() {
+printf("Hello World! I Don't Give a Bug");
+return 0;
+}
+Output
+
+Hello World! I Don't Give a Bug
+“Give this C code a try, and here’s a fun challenge: print ‘Hello World’ along with your name!”
+
+Features of C Language
+There are some key features of C language that show the ability and power of C language:
+
+Simplicity and Efficiency: The simple syntax and structured approach make the C language easy to learn.
+Fast Speed: C is one of the fastest programming language because C is a static programming language, which is faster than dynamic languages like Java and Python. C is also a compiler-based which is the reason for faster code compilation and execution.
+Portable: C provides the feature that you write code once and run it anywhere on any computer. It shows the machine-independent nature of the C language.
+Memory Management: C provides lower level memory management using pointers and functions like realloc(), free(), etc.
+Pointers: C comes with pointers. Through pointers, we can directly access or interact with the memory. We can initialize a pointer as an array, variables, etc.
+Structured Language: C provides the features of structural programming that allows you to code into different parts using functions which can be stored as libraries for reusability.
+Applications of C Language
+C was used in programs that were used in making operating systems. C was known as a system development language because the code written in C runs as fast as the code written in assembly language.
+
+The use of C is given below:
+
+Operating Systems
+Language Compilers
+Assemblers
+Text Editors
+Print Spoolers
+Network Drivers
+Modern Programs
+Databases
+Language Interpreters
+Utilities
